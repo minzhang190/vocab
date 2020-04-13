@@ -1,0 +1,73 @@
+.vocab-card {
+	display: flex;
+	flex-direction: row;
+}
+
+.vocab-text {
+	flex-grow: 1;
+	flex-basis: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	/*padding-left: 1em !important;
+	padding-right: 1em !important;*/
+}
+
+.vocab-text-captain {
+	color: inherit !important;
+	text-transform: none !important;
+}
+
+.vocab-text-captain-zh {
+	font-family: Georgia, "Nimbus Roman No9 L", "Songti SC", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif !important;
+}
+
+.vocab-text-table * {
+	border: none !important;
+	text-align: center;
+}
+
+.vocab-text-table td {
+	padding: 0.2em 0.2em 0.2em 0.2em !important;
+}
+
+.vocab-text-phrase {
+	font-size: 1.2em !important;
+	color: inherit !important;
+	text-transform: none !important;
+	font-weight: bold !important;
+	font-family: Georgia, "Nimbus Roman No9 L", "Songti SC", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif !important;
+}
+
+.lastzh {
+	font-family: Georgia, "Nimbus Roman No9 L", "Songti SC", STSong, "AR PL New Sung", "AR PL SungtiL GB", NSimSun, SimSun, "TW\-Sung", "WenQuanYi Bitmap Song", "AR PL UMing CN", "AR PL UMing HK", "AR PL UMing TW", "AR PL UMing TW MBE", PMingLiU, MingLiU, serif !important;
+}
+
+.vocab-text-pinyin {
+	font-size: 1em !important;
+	color: inherit !important;
+	text-transform: none !important;
+	font-weight: normal !important;
+}
+
+.vocab-image {
+	flex-grow: 1;
+	flex-basis: 0;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	/*padding-left: 1em !important;
+	padding-right: 1em !important;*/
+}
+
+.vocab-image img {
+	width: 80%;
+	height: auto;
+	border: none !important;
+}
+
+.vocab-inline-img {
+	position: absolute;
+	border: none !important;
+	margin: 0 !important;
+}

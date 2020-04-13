@@ -1,0 +1,58 @@
+background_color=blue
+text_color=white
+phrase=第八课 我饿了|pinyin=
+|captain=Part I Vocabulary
+class=fragment|data-fragment-index=2|phrase=苹果|class=fragment|data-fragment-index=1|pinyin=|image=1.png
+class=fragment|data-fragment-index=2|phrase=香蕉|class=fragment|data-fragment-index=1|pinyin=|image=11.png
+class=fragment|data-fragment-index=2|phrase=梨|class=fragment|data-fragment-index=1|pinyin=|image=5.png
+class=fragment|data-fragment-index=2|phrase=草莓|class=fragment|data-fragment-index=1|pinyin=|image=10.png
+class=fragment|data-fragment-index=2|phrase=葡萄|class=fragment|data-fragment-index=1|pinyin=|image=16.png
+class=fragment|data-fragment-index=2|phrase=西瓜|class=fragment|data-fragment-index=1|pinyin=|image=14.png
+class=fragment|data-fragment-index=2|phrase=饿|class=fragment|data-fragment-index=1|pinyin=|image=9.png
+class=fragment|data-fragment-index=2|phrase=吃|class=fragment|data-fragment-index=1|pinyin=|image=0.gif
+class=fragment|data-fragment-index=2|phrase=要|class=fragment|data-fragment-index=1|pinyin=|image=15.png
+class=fragment|data-fragment-index=2|phrase=要|class=fragment|data-fragment-index=1|pinyin=|image=7.png
+class=fragment|data-fragment-index=2|phrase=苹果|class=fragment|data-fragment-index=1|pinyin=|image=1.png
+class=fragment|data-fragment-index=2|phrase=香蕉|class=fragment|data-fragment-index=1|pinyin=|image=11.png
+class=fragment|data-fragment-index=2|phrase=梨|class=fragment|data-fragment-index=1|pinyin=|image=5.png
+class=fragment|data-fragment-index=2|phrase=草莓|class=fragment|data-fragment-index=1|pinyin=|image=10.png
+class=fragment|data-fragment-index=2|phrase=葡萄|class=fragment|data-fragment-index=1|pinyin=|image=16.png
+class=fragment|data-fragment-index=2|phrase=西瓜|class=fragment|data-fragment-index=1|pinyin=|image=14.png
+class=fragment|data-fragment-index=2|phrase=饿|class=fragment|data-fragment-index=1|pinyin=|image=9.png
+class=fragment|data-fragment-index=2|phrase=吃|class=fragment|data-fragment-index=1|pinyin=|image=0.gif
+class=fragment|data-fragment-index=2|phrase=要|class=fragment|data-fragment-index=1|pinyin=|image=15.png
+class=fragment|data-fragment-index=2|phrase=要|class=fragment|data-fragment-index=1|pinyin=|image=7.png
+||phrase=苹果|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=1.png
+||phrase=香蕉|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=11.png
+||phrase=梨|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=5.png
+||phrase=草莓|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=10.png
+||phrase=葡萄|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=16.png
+||phrase=西瓜|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=14.png
+||phrase=饿|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=9.png
+||phrase=吃|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=0.gif
+||phrase=要|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=15.png
+||phrase=要|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=7.png
+|captain=Part II Phrase
+class=fragment|data-fragment-index=2|phrase=吃苹果|class=fragment|data-fragment-index=1|pinyin=|image=6.png
+class=fragment|data-fragment-index=2|phrase=吃香蕉|class=fragment|data-fragment-index=1|pinyin=|image=12.png
+class=fragment|data-fragment-index=2|phrase=吃梨|class=fragment|data-fragment-index=1|pinyin=|image=4.png
+class=fragment|data-fragment-index=2|phrase=吃草莓|class=fragment|data-fragment-index=1|pinyin=|image=3.png
+class=fragment|data-fragment-index=2|phrase=吃葡萄|class=fragment|data-fragment-index=1|pinyin=|image=17.png
+class=fragment|data-fragment-index=2|phrase=吃西瓜|class=fragment|data-fragment-index=1|pinyin=|image=2.png
+class=fragment|data-fragment-index=2|phrase=要|class=fragment|data-fragment-index=1|pinyin=|image=15.png
+class=fragment|data-fragment-index=2|phrase=要|class=fragment|data-fragment-index=1|pinyin=|image=7.png
+class=fragment|data-fragment-index=2|phrase=要吃苹果|class=fragment|data-fragment-index=1|pinyin=|image=6.png
+class=fragment|data-fragment-index=2|phrase=要吃香蕉|class=fragment|data-fragment-index=1|pinyin=|image=12.png
+class=fragment|data-fragment-index=2|phrase=要吃梨|class=fragment|data-fragment-index=1|pinyin=|image=4.png
+class=fragment|data-fragment-index=2|phrase=要吃草莓|class=fragment|data-fragment-index=1|pinyin=|image=3.png
+class=fragment|data-fragment-index=2|phrase=要吃葡萄|class=fragment|data-fragment-index=1|pinyin=|image=17.png
+class=fragment|data-fragment-index=2|phrase=还要吃西瓜|class=fragment|data-fragment-index=1|pinyin=|image=2.png
+|captain=Part III Sentence
+class=fragment|data-fragment-index=2|phrase=我要吃苹果|class=fragment|data-fragment-index=1|pinyin=|image=6.png
+class=fragment|data-fragment-index=2|phrase=我要吃香蕉|class=fragment|data-fragment-index=1|pinyin=|image=12.png
+class=fragment|data-fragment-index=2|phrase=我要吃梨|class=fragment|data-fragment-index=1|pinyin=|image=4.png
+class=fragment|data-fragment-index=2|phrase=我要吃草莓|class=fragment|data-fragment-index=1|pinyin=|image=3.png
+class=fragment|data-fragment-index=2|phrase=我要吃葡萄|class=fragment|data-fragment-index=1|pinyin=|image=17.png
+class=fragment|data-fragment-index=2|phrase=我还要吃西瓜|class=fragment|data-fragment-index=1|pinyin=|image=2.png
+class=fragment|data-fragment-index=2|phrase=我吃不下了|class=fragment|data-fragment-index=1|pinyin=|image=13.png
+|captain=Good Job

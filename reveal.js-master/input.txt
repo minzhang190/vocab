@@ -1,0 +1,5 @@
+background_color=blue
+text_color=white
+string=买东西|pinyin=|phrase=买东西|captain=|pinyin=Buying Stuff|image=0.png
+|captain=Part I Vocabulary
+class=fragment|data-fragment-index=2|phrase=蛋糕|class=fragment|data-fragment-index=1|pinyin=|image=1.png

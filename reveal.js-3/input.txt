@@ -1,0 +1,51 @@
+background_color=blue
+text_color=white
+phrase=第三课 你叫什么名字？|pinyin=
+|captain=Part I Vocabulary
+class=fragment|data-fragment-index=2|phrase=我|class=fragment|data-fragment-index=1|pinyin=|image=8.png
+class=fragment|data-fragment-index=2|phrase=你|class=fragment|data-fragment-index=1|pinyin=|image=12.png
+class=fragment|data-fragment-index=2|phrase=名字|class=fragment|data-fragment-index=1|pinyin=|image=9.png
+class=fragment|data-fragment-index=2|phrase=小猫|class=fragment|data-fragment-index=1|pinyin=|image=10.png
+class=fragment|data-fragment-index=2|phrase=小狗|class=fragment|data-fragment-index=1|pinyin=|image=7.png
+class=fragment|data-fragment-index=2|phrase=小鸟|class=fragment|data-fragment-index=1|pinyin=|image=11.png
+class=fragment|data-fragment-index=2|phrase=小鸡|class=fragment|data-fragment-index=1|pinyin=|image=4.png
+class=fragment|data-fragment-index=2|phrase=小兔|class=fragment|data-fragment-index=1|pinyin=|image=5.png
+class=fragment|data-fragment-index=2|phrase=小鱼|class=fragment|data-fragment-index=1|pinyin=|image=6.png
+class=fragment|data-fragment-index=2|phrase=什么|class=fragment|data-fragment-index=1|pinyin=|image=101.jpg
+class=fragment|data-fragment-index=2|phrase=我|class=fragment|data-fragment-index=1|pinyin=|image=8.png
+class=fragment|data-fragment-index=2|phrase=你|class=fragment|data-fragment-index=1|pinyin=|image=12.png
+class=fragment|data-fragment-index=2|phrase=名字|class=fragment|data-fragment-index=1|pinyin=|image=9.png
+class=fragment|data-fragment-index=2|phrase=小猫|class=fragment|data-fragment-index=1|pinyin=|image=10.png
+class=fragment|data-fragment-index=2|phrase=小狗|class=fragment|data-fragment-index=1|pinyin=|image=7.png
+class=fragment|data-fragment-index=2|phrase=小鸟|class=fragment|data-fragment-index=1|pinyin=|image=11.png
+class=fragment|data-fragment-index=2|phrase=小鸡|class=fragment|data-fragment-index=1|pinyin=|image=4.png
+class=fragment|data-fragment-index=2|phrase=小兔|class=fragment|data-fragment-index=1|pinyin=|image=5.png
+class=fragment|data-fragment-index=2|phrase=小鱼|class=fragment|data-fragment-index=1|pinyin=|image=6.png
+class=fragment|data-fragment-index=2|phrase=什么|class=fragment|data-fragment-index=1|pinyin=|image=101.jpg
+phrase=我|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=8.png
+phrase=你|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=12.png
+phrase=名字|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=9.png
+phrase=小猫|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=10.png
+phrase=小狗|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=7.png
+phrase=小鸟|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=11.png
+phrase=小鸡|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=4.png
+phrase=小兔|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=5.png
+phrase=小鱼|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=6.png
+phrase=什么|class=fragment|data-fragment-index=1|pinyin=|class=fragment|data-fragment-index=2|image=101.jpg
+|captain=Part II Sentence
+class=fragment|data-fragment-index=2|phrase=我叫|class=fragment|data-fragment-index=1|pinyin=|image=3.png
+class=fragment|data-fragment-index=2|phrase=我叫小猫|class=fragment|data-fragment-index=1|pinyin=|image=10.png
+class=fragment|data-fragment-index=2|phrase=我叫小狗|class=fragment|data-fragment-index=1|pinyin=|image=7.png
+class=fragment|data-fragment-index=2|phrase=我叫小鸟|class=fragment|data-fragment-index=1|pinyin=|image=11.png
+class=fragment|data-fragment-index=2|phrase=我叫小鸡|class=fragment|data-fragment-index=1|pinyin=|image=4.png
+class=fragment|data-fragment-index=2|phrase=我叫小兔|class=fragment|data-fragment-index=1|pinyin=|image=5.png
+class=fragment|data-fragment-index=2|phrase=我叫小鱼|class=fragment|data-fragment-index=1|pinyin=|image=6.png
+class=fragment|data-fragment-index=2|phrase=你叫|class=fragment|data-fragment-index=1|pinyin=|image=1.png
+class=fragment|data-fragment-index=2|phrase=你叫小猫|class=fragment|data-fragment-index=1|pinyin=|image=10.png
+class=fragment|data-fragment-index=2|phrase=你叫小狗|class=fragment|data-fragment-index=1|pinyin=|image=7.png
+class=fragment|data-fragment-index=2|phrase=你叫小鸟|class=fragment|data-fragment-index=1|pinyin=|image=11.png
+class=fragment|data-fragment-index=2|phrase=你叫小鸡|class=fragment|data-fragment-index=1|pinyin=|image=4.png
+class=fragment|data-fragment-index=2|phrase=你叫小兔|class=fragment|data-fragment-index=1|pinyin=|image=5.png
+class=fragment|data-fragment-index=2|phrase=你叫小鱼|class=fragment|data-fragment-index=1|pinyin=|image=6.png
+class=fragment|data-fragment-index=2|phrase=你叫什么名字？|class=fragment|data-fragment-index=1|pinyin=
+|captain=Good Job

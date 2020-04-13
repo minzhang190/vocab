@@ -1,0 +1,61 @@
+background_color=blue
+text_color=white
+|captain=教室里有什么？|captain=What's in the classroom?
+|captain=Part I Vocabulary
+image=1.jpg|class=fragment|data-fragment-index=2|phrase=教室|class=fragment|data-fragment-index=1|pinyin=|
+image=2.jpg|class=fragment|data-fragment-index=2|phrase=里|class=fragment|data-fragment-index=1|pinyin=|
+image=3.jpg|class=fragment|data-fragment-index=2|phrase=有|class=fragment|data-fragment-index=1|pinyin=|
+image=4.jpg|class=fragment|data-fragment-index=2|phrase=没有|class=fragment|data-fragment-index=1|pinyin=|
+image=7.jpg|class=fragment|data-fragment-index=2|phrase=什么|class=fragment|data-fragment-index=1|pinyin=|
+image=5.png|class=fragment|data-fragment-index=2|phrase=老师|class=fragment|data-fragment-index=1|pinyin=|
+image=6.jpg|class=fragment|data-fragment-index=2|phrase=学生|class=fragment|data-fragment-index=1|pinyin=|
+image=6.png|class=fragment|data-fragment-index=2|phrase=桌子|class=fragment|data-fragment-index=1|pinyin=|
+image=8.jpg|class=fragment|data-fragment-index=2|phrase=椅子|class=fragment|data-fragment-index=1|pinyin=|
+image=9.jpg|class=fragment|data-fragment-index=2|phrase=地毯|class=fragment|data-fragment-index=1|pinyin=|
+image=10.jpg|class=fragment|data-fragment-index=2|phrase=灯|class=fragment|data-fragment-index=1|pinyin=|
+image=11.jpg|class=fragment|data-fragment-index=2|phrase=白板|class=fragment|data-fragment-index=1|pinyin=|
+image=12.png|class=fragment|data-fragment-index=2|phrase=钟表|class=fragment|data-fragment-index=1|pinyin=|
+image=13.jpg|class=fragment|data-fragment-index=2|phrase=书|class=fragment|data-fragment-index=1|pinyin=|
+image=14.jpg|class=fragment|data-fragment-index=2|phrase=书架|class=fragment|data-fragment-index=1|pinyin=|
+image=15.jpg|class=fragment|data-fragment-index=2|phrase=柜子|class=fragment|data-fragment-index=1|pinyin=|
+image=16.jpg|class=fragment|data-fragment-index=2|phrase=电脑|class=fragment|data-fragment-index=1|pinyin=|
+|captain=Part II Phrases
+image=1.jpg|phrase=+|image=2.jpg|class=fragment|data-fragment-index=2|phrase=教室里|class=fragment|data-fragment-index=1|pinyin=|
+image=5.png|class=fragment|data-fragment-index=2|phrase=有老师|class=fragment|data-fragment-index=1|pinyin=|
+image=6.jpg|class=fragment|data-fragment-index=2|phrase=有学生|class=fragment|data-fragment-index=1|pinyin=|
+image=6.png|class=fragment|data-fragment-index=2|phrase=有桌子|class=fragment|data-fragment-index=1|pinyin=|
+image=8.jpg|class=fragment|data-fragment-index=2|phrase=有椅子|class=fragment|data-fragment-index=1|pinyin=|
+image=9.jpg|class=fragment|data-fragment-index=2|phrase=有地毯|class=fragment|data-fragment-index=1|pinyin=|
+image=10.jpg|class=fragment|data-fragment-index=2|phrase=有灯|class=fragment|data-fragment-index=1|pinyin=|
+image=11.jpg|class=fragment|data-fragment-index=2|phrase=有白板|class=fragment|data-fragment-index=1|pinyin=|
+image=12.png|class=fragment|data-fragment-index=2|phrase=有钟表|class=fragment|data-fragment-index=1|pinyin=|
+image=13.jpg|class=fragment|data-fragment-index=2|phrase=有书|class=fragment|data-fragment-index=1|pinyin=|
+image=14.jpg|class=fragment|data-fragment-index=2|phrase=有书架|class=fragment|data-fragment-index=1|pinyin=|
+image=15.jpg|class=fragment|data-fragment-index=2|phrase=有柜子|class=fragment|data-fragment-index=1|pinyin=|
+image=16.jpg|class=fragment|data-fragment-index=2|phrase=有电脑|class=fragment|data-fragment-index=1|pinyin=|
+image=5.png|class=fragment|data-fragment-index=2|phrase=没有老师|class=fragment|data-fragment-index=1|pinyin=|
+image=6.jpg|class=fragment|data-fragment-index=2|phrase=没有学生|class=fragment|data-fragment-index=1|pinyin=|
+image=6.png|class=fragment|data-fragment-index=2|phrase=没有桌子|class=fragment|data-fragment-index=1|pinyin=|
+image=8.jpg|class=fragment|data-fragment-index=2|phrase=没有椅子|class=fragment|data-fragment-index=1|pinyin=|
+image=9.jpg|class=fragment|data-fragment-index=2|phrase=没有地毯|class=fragment|data-fragment-index=1|pinyin=|
+image=10.jpg|class=fragment|data-fragment-index=2|phrase=没有灯|class=fragment|data-fragment-index=1|pinyin=|
+image=11.jpg|class=fragment|data-fragment-index=2|phrase=没有白板|class=fragment|data-fragment-index=1|pinyin=|
+image=12.png|class=fragment|data-fragment-index=2|phrase=没有钟表|class=fragment|data-fragment-index=1|pinyin=|
+image=13.jpg|class=fragment|data-fragment-index=2|phrase=没有书|class=fragment|data-fragment-index=1|pinyin=|
+image=14.jpg|class=fragment|data-fragment-index=2|phrase=没有书架|class=fragment|data-fragment-index=1|pinyin=|
+image=15.jpg|class=fragment|data-fragment-index=2|phrase=没有柜子|class=fragment|data-fragment-index=1|pinyin=|
+image=16.jpg|class=fragment|data-fragment-index=2|phrase=没有电脑|class=fragment|data-fragment-index=1|pinyin=|
+|captain=Part III Sentences
+image=5.png|class=fragment|data-fragment-index=2|phrase=教室里有老师|class=fragment|data-fragment-index=1|pinyin=|
+image=6.jpg|class=fragment|data-fragment-index=2|phrase=教室里有学生|class=fragment|data-fragment-index=1|pinyin=|
+image=6.png|class=fragment|data-fragment-index=2|phrase=教室里有桌子|class=fragment|data-fragment-index=1|pinyin=|
+image=8.jpg|class=fragment|data-fragment-index=2|phrase=教室里有椅子|class=fragment|data-fragment-index=1|pinyin=|
+image=9.jpg|class=fragment|data-fragment-index=2|phrase=教室里有地毯|class=fragment|data-fragment-index=1|pinyin=|
+image=10.jpg|class=fragment|data-fragment-index=2|phrase=教室里有灯|class=fragment|data-fragment-index=1|pinyin=|
+image=11.jpg|class=fragment|data-fragment-index=2|phrase=教室里有白板|class=fragment|data-fragment-index=1|pinyin=|
+image=12.png|class=fragment|data-fragment-index=2|phrase=教室里有钟表|class=fragment|data-fragment-index=1|pinyin=|
+image=13.jpg|class=fragment|data-fragment-index=2|phrase=教室里有书|class=fragment|data-fragment-index=1|pinyin=|
+image=14.jpg|class=fragment|data-fragment-index=2|phrase=教室里有书架|class=fragment|data-fragment-index=1|pinyin=|
+image=15.jpg|class=fragment|data-fragment-index=2|phrase=教室里有柜子|class=fragment|data-fragment-index=1|pinyin=|
+image=16.jpg|class=fragment|data-fragment-index=2|phrase=教室里有电脑|class=fragment|data-fragment-index=1|pinyin=|
+|captain=Question:|captain=How to say "there're pencils in backpack" in Chinese?
